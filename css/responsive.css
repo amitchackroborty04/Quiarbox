@@ -1,0 +1,705 @@
+@media (min-width:320px) and (max-width:575px) {
+    .banner_title {
+        font-size: 41px;
+        line-height: 98%;
+        width: auto;
+    }
+    .banner_para {
+        font-size: 16px;
+        line-height: 112%;
+        width: auto;
+    }
+    .banner_link {
+        padding: 10px 16px;
+        font-size: 17px;
+        font-weight: 600;
+        border-radius: 5px;
+        margin-top: 21px;
+    }
+    .banner_icon {
+        top: 561px;
+        left: 108px;
+    }
+    .amit{
+        width: 100%;
+    }
+    .sercice_title {
+        font-size: 21.25PX;
+    }
+    .service_subtitle {
+        font-size: 20.06px;
+        margin-top: -3px;
+    }
+    .sr_imgdiv {
+        width: auto;
+        height: 583px;
+       
+    }
+    .sr_title {
+        font-size: 19px;
+    }
+    .sr_para {
+        font-size: 14px;
+        line-height: 131%;
+        width: auto;
+        margin-top: 21px;
+    }
+    .main {
+        margin-top: 18px;
+    }
+    .service_btn {
+        padding: 5px 13px;
+        font-size: 19px;
+   
+    }
+    .awared_div {
+        width: auto;
+        margin-left: 22px;
+    }
+    element.style {
+        width: auto;
+    }
+    .delivery_img{
+        width: 100%;
+    }
+    .delicery_title {
+        font-size: 12.25px !important;
+        margin-top: 2px;
+    }
+    .delivery_subtile {
+        font-size: 14px;
+        width: auto;
+        margin-top: 5px;
+    }
+    .delivery_subtile {
+        font-size: 13px;
+        width: auto;
+        margin-top: -5px;
+    }
+    .dily_icon{
+        width: 50px;
+    }
+    .delicery_title {
+        font-size: 31.25px;
+        margin-top: 2px;
+    }
+    .deliver_item {
+        width: 100%;
+        top: 8px;
+        left: 0;
+    }
+    .test_img{
+        width: 100%;
+    }
+    .testimonial_title {
+        
+        font-size: 18.25px;
+       
+    }
+    .testimonial_subtitle {
+        font-size: 29px;
+
+    }
+    .test_main {
+        width: auto;
+       
+    }
+    .test_para {
+        line-height: 134%;
+        width: auto;
+    }
+    .space {
+        margin-left: -1px;
+    }
+    .r_flex_subtitle {
+        font-size: 14px;
+        line-height: 89%;
+    }
+    .avater_img{
+        width: 100%;
+        margin-top: 20px;
+    }
+    .contact_img{
+        width:30%;
+    }
+    .cotact_title {
+        font-size: 17px;
+    }
+    .cotact_maititle {
+        font-size: 16px;
+        margin-top: 8px;
+    }
+    .cotact_subtitle {
+        font-size: 14px;
+    }
+    .contact_input {
+        width: auto;
+       
+    }
+    .contact_masbox {
+        width: auto;
+        height: 68px;
+    }
+    .contact_masbox {
+        width: auto;
+        height: 68px;
+        
+    }
+    .button{
+
+        margin-left: -100px;
+    }
+    .contact_btn {
+        width: 195px;
+    }
+    .contact_icon {
+        position: absolute;
+        top: 16px;
+        left: px;
+    }
+   
+    .button {
+        margin-left: -685px;
+    }
+    .acees_img{
+        width: 100%;
+
+    }
+    .acces_right {
+        width: auto;
+        margin-left: 1px;
+    }
+    .acces_r_dwon{
+        margin-top: 28px;
+    }
+    .right_icon{
+        width: 100%;
+    }
+    .right_email {
+        width: auto;
+        margin-top: 0;
+    }
+    .acces_btn {
+        padding: 25px 29px 21px 103px;
+        
+        font-size: 11px;
+       
+    }
+    .accees_icon {
+       
+        top: 25px;
+        left: 82px;
+    }
+    .update_title {
+        font-size: 16px;
+    }
+    .update_para {
+      
+        font-size: 16px;
+       
+    }
+    .update_r_title {
+        font-size: 14px;
+    }
+    .input {
+        width: auto;
+       
+    }
+    .update_btn {
+        padding: 9px 17px;
+       margin-top: 20px;
+    }
+    .fotter_r_title {
+        font-size: 16px;
+    }
+    .fotter_subiem {
+        font-size: 14px;
+    }
+    .fotter_title {
+        font-size: 14px;
+    }
+    .last_title {
+        font-size: 7px;
+
+    }
+    span {
+       
+        font-size: 7px;
+       
+    }
+    .contact_main {
+        width: auto;
+        margin: 0 auto;
+    }
+    
+}
+@media (min-width:576px) and (max-width:767px) {
+    .banner_title {
+        font-size: 41px;
+        line-height: 98%;
+        width: auto;
+    }
+    .banner_para {
+        font-size: 16px;
+        line-height: 112%;
+        width: auto;
+    }
+    .banner_link {
+        padding: 10px 16px;
+        font-size: 17px;
+        font-weight: 600;
+        border-radius: 5px;
+        margin-top: 21px;
+    }
+    .banner_icon {
+        top: 561px;
+        left: 108px;
+    }
+    .amit{
+        width: 100%;
+    }
+    .sercice_title {
+        font-size: 21.25PX;
+    }
+    .service_subtitle {
+        font-size: 20.06px;
+        margin-top: -3px;
+    }
+    .sr_imgdiv {
+        width: auto;
+        height: 583px;
+       
+    }
+    .sr_title {
+        font-size: 19px;
+    }
+    .sr_para {
+        font-size: 14px;
+        line-height: 131%;
+        width: auto;
+        margin-top: 21px;
+    }
+    .main {
+        margin-top: 18px;
+    }
+    .service_btn {
+        padding: 5px 13px;
+        font-size: 19px;
+   
+    }
+    .awared_div {
+        width: auto;
+        margin-left: 22px;
+    }
+    element.style {
+        width: auto;
+    }
+    .delivery_img{
+        width: 100%;
+    }
+    .delicery_title {
+        font-size: 12.25px !important;
+        margin-top: 2px;
+    }
+    .delivery_subtile {
+        font-size: 14px;
+        width: auto;
+        margin-top: 5px;
+    }
+    .delivery_subtile {
+        font-size: 13px;
+        width: auto;
+        margin-top: -5px;
+    }
+    .dily_icon{
+        width: 50px;
+    }
+    .delicery_title {
+        font-size: 31.25px;
+        margin-top: 2px;
+    }
+    .deliver_item {
+        width: 100%;
+        top: 8px;
+        left: 0;
+    }
+    .test_img{
+        width: 100%;
+    }
+    .testimonial_title {
+        
+        font-size: 18.25px;
+       
+    }
+    .testimonial_subtitle {
+        font-size: 29px;
+
+    }
+    .test_main {
+        width: auto;
+       
+    }
+    .test_para {
+        line-height: 134%;
+        width: auto;
+    }
+    .space {
+        margin-left: -1px;
+    }
+    .r_flex_subtitle {
+        font-size: 14px;
+        line-height: 89%;
+    }
+    .avater_img{
+        width: 100%;
+        margin-top: 20px;
+    }
+    .contact_img{
+        width:30%;
+    }
+    .cotact_title {
+        font-size: 17px;
+    }
+    .cotact_maititle {
+        font-size: 16px;
+        margin-top: 8px;
+    }
+    .cotact_subtitle {
+        font-size: 14px;
+    }
+    .contact_input {
+        width: auto;
+       
+    }
+    .contact_masbox {
+        width: auto;
+        height: 68px;
+    }
+    .contact_masbox {
+        width: auto;
+        height: 68px;
+        
+    }
+    .button{
+
+        margin-left: -100px;
+    }
+    .contact_btn {
+        width: 195px;
+    }
+    .contact_icon {
+        position: absolute;
+        top: 16px;
+        left: px;
+    }
+   
+    .button {
+        margin-left: -685px;
+    }
+    .acees_img{
+        width: 100%;
+
+    }
+    .acces_right {
+        width: auto;
+        margin-left: 1px;
+    }
+    .acces_r_dwon{
+        margin-top: 28px;
+    }
+    .right_icon{
+        width: 100%;
+    }
+    .right_email {
+        width: auto;
+        margin-top: 0;
+    }
+    .acces_btn {
+        padding: 25px 29px 21px 103px;
+        
+        font-size: 11px;
+       
+    }
+    .accees_icon {
+       
+        top: 25px;
+        left: 82px;
+    }
+    .update_title {
+        font-size: 16px;
+    }
+    .update_para {
+      
+        font-size: 16px;
+       
+    }
+    .update_r_title {
+        font-size: 14px;
+    }
+    .input {
+        width: auto;
+       
+    }
+    .update_btn {
+        padding: 9px 17px;
+       margin-top: 20px;
+    }
+    .fotter_r_title {
+        font-size: 16px;
+    }
+    .fotter_subiem {
+        font-size: 14px;
+    }
+    .fotter_title {
+        font-size: 14px;
+    }
+    .last_title {
+        font-size: 7px;
+
+    }
+    span {
+       
+        font-size: 7px;
+       
+    }
+    .contact_main {
+        width: auto;
+        margin: 0 auto;
+    }
+    
+}
+@media (min-width:768px) and (max-width:991px) {
+    .banner_title {
+        font-size: 41px;
+        line-height: 98%;
+        width: auto;
+    }
+    .banner_para {
+        font-size: 16px;
+        line-height: 112%;
+        width: auto;
+    }
+    .banner_link {
+        padding: 10px 16px;
+        font-size: 17px;
+        font-weight: 600;
+        border-radius: 5px;
+        margin-top: 21px;
+    }
+    .banner_icon {
+        top: 561px;
+        left: 108px;
+    }
+    .amit{
+        width: 100%;
+    }
+    .sercice_title {
+        font-size: 21.25PX;
+    }
+    .service_subtitle {
+        font-size: 20.06px;
+        margin-top: -3px;
+    }
+    .sr_imgdiv {
+        width: auto;
+        height: 583px;
+       
+    }
+    .sr_title {
+        font-size: 19px;
+    }
+    .sr_para {
+        font-size: 14px;
+        line-height: 131%;
+        width: auto;
+        margin-top: 21px;
+    }
+    .main {
+        margin-top: 18px;
+    }
+    .service_btn {
+        padding: 5px 13px;
+        font-size: 19px;
+   
+    }
+    .awared_div {
+        width: auto;
+        margin-left: 22px;
+    }
+    element.style {
+        width: auto;
+    }
+    .delivery_img{
+        width: 100%;
+    }
+    .delicery_title {
+        font-size: 12.25px !important;
+        margin-top: 2px;
+    }
+    .delivery_subtile {
+        font-size: 14px;
+        width: auto;
+        margin-top: 5px;
+    }
+    .delivery_subtile {
+        font-size: 13px;
+        width: auto;
+        margin-top: -5px;
+    }
+    .dily_icon{
+        width: 50px;
+    }
+    .delicery_title {
+        font-size: 31.25px;
+        margin-top: 2px;
+    }
+    .deliver_item {
+        width: 100%;
+        top: 8px;
+        left: 0;
+    }
+    .test_img{
+        width: 100%;
+    }
+    .testimonial_title {
+        
+        font-size: 18.25px;
+       
+    }
+    .testimonial_subtitle {
+        font-size: 29px;
+
+    }
+    .test_main {
+        width: auto;
+       
+    }
+    .test_para {
+        line-height: 134%;
+        width: auto;
+    }
+    .space {
+        margin-left: -1px;
+    }
+    .r_flex_subtitle {
+        font-size: 14px;
+        line-height: 89%;
+    }
+    .avater_img{
+        width: 100%;
+        margin-top: 20px;
+    }
+    .contact_img{
+        width:30%;
+    }
+    .cotact_title {
+        font-size: 17px;
+    }
+    .cotact_maititle {
+        font-size: 16px;
+        margin-top: 8px;
+    }
+    .cotact_subtitle {
+        font-size: 14px;
+    }
+    .contact_input {
+        width: auto;
+       
+    }
+    .contact_masbox {
+        width: auto;
+        height: 68px;
+    }
+    .contact_masbox {
+        width: auto;
+        height: 68px;
+        
+    }
+    .button{
+
+        margin-left: -100px;
+    }
+    .contact_btn {
+        width: 195px;
+    }
+    .contact_icon {
+        position: absolute;
+        top: 16px;
+        left: px;
+    }
+   
+    .button {
+        margin-left: -685px;
+    }
+    .acees_img{
+        width: 100%;
+
+    }
+    .acces_right {
+        width: auto;
+        margin-left: 1px;
+    }
+    .acces_r_dwon{
+        margin-top: 28px;
+    }
+    .right_icon{
+        width: 100%;
+    }
+    .right_email {
+        width: auto;
+        margin-top: 0;
+    }
+    .acces_btn {
+        padding: 25px 29px 21px 103px;
+        
+        font-size: 11px;
+       
+    }
+    .accees_icon {
+       
+        top: 25px;
+        left: 82px;
+    }
+    .update_title {
+        font-size: 16px;
+    }
+    .update_para {
+      
+        font-size: 16px;
+       
+    }
+    .update_r_title {
+        font-size: 14px;
+    }
+    .input {
+        width: auto;
+       
+    }
+    .update_btn {
+        padding: 9px 17px;
+       margin-top: 20px;
+    }
+    .fotter_r_title {
+        font-size: 16px;
+    }
+    .fotter_subiem {
+        font-size: 14px;
+    }
+    .fotter_title {
+        font-size: 14px;
+    }
+    .last_title {
+        font-size: 7px;
+
+    }
+    span {
+       
+        font-size: 7px;
+       
+    }
+    .contact_main {
+        width: auto;
+        margin: 0 auto;
+    }
+    
+}
